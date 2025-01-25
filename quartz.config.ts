@@ -8,16 +8,16 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
-    pageTitleSuffix: "",
+    pageTitle: "OPeRA Digital Platform",
+    pageTitleSuffix: " | OPeRA",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "platform.opera-phd.org",
+    ignorePatterns: ["private", "templates", "journal", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
@@ -28,32 +28,42 @@ const config: QuartzConfig = {
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
+/*
+*****************************************************
+** This is the important colors customization section
+*****************************************************
+*/
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#e4dac8", // page background
+          lightgray: "#e5e5e5", //borders
+          gray: "#b8b8b8", // graph links, heavier borders
+          darkgray: "#341a1a", // body text
+          dark: "#2b2b2b", // header text and icons
+          secondary: "#7e5841", // links, current graph node
+          tertiary: "#718c6f", // hover color visited graph nodes
+          highlight: "rgba(143, 159, 169, 0.15)", // internal links bg, highlighted text and lines of code
+          textHighlight: "#fff23688", // (with transparency) MD highlighted text bg
         },
         darkMode: {
-          light: "#161618",
+          light: "#343434", // the background
           lightgray: "#393639",
           gray: "#646464",
-          darkgray: "#d4d4d4",
+          darkgray: "#ad9a69", // text
           dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          secondary: "#7e5841", // links
+          tertiary: "#718c6f", // hover color
+          highlight: "#c2a26726",
+          textHighlight: "#b08b1875",
         },
       },
     },
   },
+/*
+*****************************************************
+**** The plugins section - study before changing ****
+*****************************************************
+*/
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
