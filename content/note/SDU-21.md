@@ -7,7 +7,7 @@ dg-publish: true
 aliases: 
 ---
 > [!abstract]- antet  
-> context::  [[index|pagina principală]]
+> context::  [[index|pagina principală]]  
 > data:: 2025.01.17  
 > ora:: 23:38  
 > conexiuni::  
