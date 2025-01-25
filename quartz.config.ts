@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "OPeRA Digital Platform",
+    pageTitle: "Platforma OPeRA",
     pageTitleSuffix: " | OPeRA",
     enableSPA: true,
     enablePopovers: true,

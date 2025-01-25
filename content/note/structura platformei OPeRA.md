@@ -2,12 +2,10 @@
 title: structura platformei OPeRA
 draft: false
 tags: 
-dg-home: false
-dg-publish: true
 aliases: 
 ---
 > [!abstract]- antet  
-> context::  [[index|pagina de pornire]]
+> context::  [[content/index|pagina de pornire]]
 > data:: 2025.01.15  
 > ora:: 05:12  
 > conexiuni::  
@@ -18,8 +16,8 @@ aliases:
 
 
 ---
-
 # componente externe
+
 
 ---
 
