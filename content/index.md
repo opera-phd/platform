@@ -1,5 +1,24 @@
 ---
 title: Welcome to my new experiment
+draft: false
+tags: 
+aliases:
+---
+> [!abstract]- antet  
+> context::  
+> data:: 2025.01.25  
+> ora:: 21:22  
+> conexiuni::  
+> DDC::  
+> ZettelkastenCode::  
+> sursa::  
+> tags::  
+
+
+---
+# componente externe
+
+
 ---
 
 # the starting point
@@ -26,3 +45,17 @@ just for calibrating
 # heading 1
 
 test
+
+
+
+---
+# subsolul notei
+---
+## referințe și resurse
+
+
+---
+## note de subsol
+---
+
+

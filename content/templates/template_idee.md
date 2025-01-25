@@ -2,8 +2,6 @@
 title: 
 draft: false
 tags: 
-dg-home: false
-dg-publish: false
 aliases: " "
 ---
 > [!abstract]- antet  
@@ -18,8 +16,8 @@ aliases: " "
 
 
 ---
-
 # componente externe
+
 
 ---
 

@@ -2,12 +2,10 @@
 title: 
 draft: false
 aliases: 
-categorie-pers:
+categorie-pers: 
 An-nastere: 
 An-deces: 
 nota-data: "{{date:YYYY.MM.DD}}"
-dg-home: false
-dg-publish: false
 tags: 
 ---
 
