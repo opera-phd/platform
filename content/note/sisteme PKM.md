@@ -2,24 +2,22 @@
 title: sisteme PKM
 draft: false
 tags: " "
-dg-home: false
-dg-publish: true
 aliases: " "
 ---
 > [!abstract]- antet  
-> context::  [[index|pagina de pornire]]
+> context::  [[index|pagina de pornire]]  
 > data:: 2024.11.11  
 > ora:: 17:10  
 > conexiuni::  
-> DDC::  [[001.450 PKM]]
+> DDC::  [[001.450 PKM]]  
 > ZettelkastenCode::  
 > sursa::  
 > tags::  
 
 
 ---
-
 # componente externe  
+
 
 ---
 

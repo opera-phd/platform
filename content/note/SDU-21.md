@@ -2,8 +2,6 @@
 title: 
 draft: false
 tags: 
-dg-home: false
-dg-publish: true
 aliases: 
 ---
 > [!abstract]- antet  
@@ -18,7 +16,6 @@ aliases:
 
 
 ---
-
 # componente externe
 - prezentare la cursul 01: https://opera-phd.synology.me/digitalgarden/SDU-21-C01.pdf
 

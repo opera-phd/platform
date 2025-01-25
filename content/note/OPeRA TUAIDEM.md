@@ -2,8 +2,6 @@
 title: 
 draft: false
 tags: 
-dg-home: false
-dg-publish: true
 ---
 > [!abstract]- antet  
 > context:: [[index|pagina de pornire]]   
@@ -18,6 +16,7 @@ dg-publish: true
 
 ---
 # componente externe  
+
 
 ---
 
