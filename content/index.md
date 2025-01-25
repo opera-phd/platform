@@ -6,9 +6,9 @@ aliases:
   - pagina de pornire
 ---
 > [!abstract]- antet  
-> context::  (această notă nu are context, este pagina de pornire)
-> data:: 2024.11.10
-> ora:: 14:14
+> context::  (această notă nu are context, este pagina de pornire)   
+> data:: 2024.11.10  
+> ora:: 14:14  
 > conexiuni::  
 > DDC::  
 > ZettelkastenCode::  
@@ -17,9 +17,9 @@ aliases:
 
 
 ---
-# componente externe
+# componente externe  
 - această pagină, spre deosebire de altele, nu are *context* *(de obicei declarat în proprietatea omonimă din **antet**, vezi mai sus)* și, deocamdată, nici alte componente externe, cu excepția...
-	- ... modulului complementar pe care îl reprezintă website-ul proiectului **[OPeRA](https://opera-phd.org/)**
+	- ... modulului complementar pe care îl reprezintă website-ul proiectului **[OPeRA](https://opera-phd.org/)**  
 
 ![[opera-phd.org.jpeg|500]]
 

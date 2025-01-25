@@ -2,8 +2,6 @@
 title: 
 draft: false
 tags: 
-dg-home: false
-dg-publish: true
 ---
 > [!abstract]- antet  
 > context:: [[o500 DDC]]  
@@ -20,7 +18,7 @@ dg-publish: true
 
 # componente externe
 
-
+---
 # sections and subsections
   
 000 General knowledge  

@@ -2,8 +2,6 @@
 title: o500 DDC - mediateca
 draft: false
 tags: 
-dg-home: false
-dg-publish: true
 ---
   
 > [!abstract]- antet  
@@ -18,6 +16,7 @@ dg-publish: true
   
 ---  
 # componente externe
+
 
 ---
 

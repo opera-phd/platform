@@ -5,7 +5,7 @@ tags:
 aliases: 
 ---
 > [!abstract]- antet  
-> context::  [[content/index|pagina de pornire]]
+> context::  [[index|pagina de pornire]]
 > data:: 2025.01.15  
 > ora:: 05:12  
 > conexiuni::  
