@@ -1,8 +1,8 @@
 ---
 title: sisteme PKM
 draft: false
-tags: " "
-aliases: " "
+tags: 
+aliases: 
 ---
 > [!abstract]- antet  
 > context::  [[index|pagina de pornire]]  
@@ -25,8 +25,8 @@ aliases: " "
 ## software editare (în general)
 *(pot emula sistemele PKM, la un nivel de simplitate)*
 - Apple Notes (oferă link-uri; sistemele Android au nevoie de aplicații speciale pentru aceasta)
-- Google Docs (cu link-uri)
-- MS Office, LibreOffice... (de asemenea, cu link-uri)
+- Google Docs *(cu link-uri)*
+- MS Office, LibreOffice... *(de asemenea, cu link-uri)*
 ## sisteme note taking, wikis, mind mapping, whiteboard
 *(pot constitui un înlocuitor al sistemelor PKM propriu-zise, la un prim nivel de complexitate)*
 - Sisteme wiki, tiddlywiki cu [tiddlyhost](https://opera.tiddlyhost.com/)
