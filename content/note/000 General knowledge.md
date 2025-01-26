@@ -42,6 +42,8 @@ tags:
 009 (free)*  
   
 
+(păstrăm încă structura în limba engleză ca referință)
+
 ---  
 # subsolul notei  
 ---  
