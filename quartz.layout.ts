@@ -8,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      OPeRA: "https://opera-phd.org/",
-      "pagină creată de echipa proiectului": ""
+      "platforma OPeRA ,": "https://opera-phd.org/",
+      "pagină creată de echipa proiectului": "mailto:research@opera-phd.org"
     },
   }),
 }
