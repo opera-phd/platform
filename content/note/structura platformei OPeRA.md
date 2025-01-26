@@ -10,7 +10,7 @@ aliases:
 > ora:: 05:12  
 > conexiuni::  
 > DDC::  
-> ZettelkastenCode::  
+> ZettelkastenCode::  PKMs-001
 > sursa::  
 > tags::  
 
