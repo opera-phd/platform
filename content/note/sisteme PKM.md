@@ -21,7 +21,7 @@ aliases:
 
 ---
 
-# niveluri de complexitate pentru platforme, sisteme, instrumente PKM
+# niveluri de complexitate pentru platforme, sisteme și instrumente PKM
 ## software editare (în general)
 *(pot emula sistemele PKM, la un nivel de simplitate)*
 - Apple Notes (oferă link-uri; sistemele Android au nevoie de aplicații speciale pentru aceasta)

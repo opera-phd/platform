@@ -23,6 +23,7 @@ aliases:
 
 # Structura platformei digitale a proiectului
 ## componente
+**Structura generală a platformei digitale a proiectului**, cuprinzând componente și *conexiuni* generale, este descrisă în [[structura platformei OPeRA]].
 
 Platforma digitală a proiectului **OPeRA** cuprinde trei module:
 - **website**-ul proiectului, pe domeniul propriu de la adresa https://opera-phd.org/

@@ -35,15 +35,10 @@ Titlul site-ului, din partea stângă a paginii, **„Platforma OPeRA”**, este
 Fiecare notă (pagină) a acestui modul conține în **„antet”** (click în câmpul lui deschide conținutul antetului) informații de tip *metadata*, inclusiv **contextul** respectivei pagini sub formă de link.
 
 **Graficul** *microuniversului* notelor, din partea dreaptă a pagini, în partea de sus poate fi mărit în fereastră nouă din butonul din partea dreaptă, sus, al componentei paginii.
-## componente
+## componente (conținutul modulului PKMS)
 - [[structura platformei OPeRA]]
+- Principii în organizarea modulului PKMS [[principii modulul PKMS]]
 - 
-### principii
-**Structura generală a platformei digitale a proiectului**, cuprinzând componente și *conexiuni* generale, este descrisă în [[structura platformei OPeRA]].
-
-Toate notele cu prefix DDC (zecimal) reprezintă componente ale **documentației** (bibliotecii), iar celelalte note reprezintă **contribuții proprii** la această platformă digitală. Componentele **documentației** (bibliotecii), clasate în sistemul zecimal Dewey (DDC) cuprind:
-- note de inventariere cu prefix de tipul `###.###`,
-- note de lectură, de tip „Literature Review” (LZ, *LiteraturZettel* în sistem [[Zettelkasten]])
 
 # aplicații în cadrul sistemului
 ## integrarea în cursuri din curricula UAUIM
