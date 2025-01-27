@@ -35,30 +35,16 @@ Titlul site-ului, din partea stângă a paginii, **„Platforma OPeRA”**, este
 Fiecare notă (pagină) a acestui modul conține în **„antet”** (click în câmpul lui deschide conținutul antetului) informații de tip *metadata*, inclusiv **contextul** respectivei pagini sub formă de link.
 
 **Graficul** *microuniversului* notelor, din partea dreaptă a pagini, în partea de sus poate fi mărit în fereastră nouă din butonul din partea dreaptă, sus, al componentei paginii.
-## componentele platformei
+## componente
+- [[structura platformei OPeRA]]
+- 
 ### principii
 **Structura generală a platformei digitale a proiectului**, cuprinzând componente și *conexiuni* generale, este descrisă în [[structura platformei OPeRA]].
 
 Toate notele cu prefix DDC (zecimal) reprezintă componente ale **documentației** (bibliotecii), iar celelalte note reprezintă **contribuții proprii** la această platformă digitală. Componentele **documentației** (bibliotecii), clasate în sistemul zecimal Dewey (DDC) cuprind:
 - note de inventariere cu prefix de tipul `###.###`,
 - note de lectură, de tip „Literature Review” (LZ, *LiteraturZettel* în sistem [[Zettelkasten]])
-### componente
-Principalele **componente** ale acestui modul sunt:
-- **documentația și mediateca**, clasată în sistem DDC - [[o500 DDC]][^2]
-	- în acest context sunt prezentate și **sistemele PKM** într-o secțiune din cadrul documentației, cuprinzând:
-		- documentare generală despre sistemele PKM - [[001.450 PKM]]
-		- o selecție restrânsă de [[sisteme PKM]] recomandate de noi, pe trei niveluri de complexitate
-- **modulul dinamic al platformei digitale**[^3] de managementul cunoștințelor în cadrul proiectului [OPeRA](https://opera-phd.org/)  include:
-	- note reprezentând **propriile contribuții** (idei, comentarii) ale membrilor proiectului (FZ, *FolgeZettel* în sistem [[Zettelkasten]])
-	- în particular, componentele sistemului **TUA_IDEM** de clasare a informațiilor din cadrul proiectului - [[OPeRA TUAIDEM]] - urmărind, din nou:
-		- **documentații** (clasate DDC) în cadrul studiului tematic (LZ)
-		- **contribuții proprii** în cadrul acestui studiu (FZ)
 
-|    (teorie)    |    (practică)    | (materialitate) |
-|:--------------:|:----------------:|:---------------:|
-|                |  [[OPeRA U\|U]]  |                 |
-| [[OPeRA T\|T]] | [[OPeRA AI\|AI]] | [[OPeRA M\|M]]  |
-|                | [[OPeRA DE\|DE]] |                 |
 # aplicații în cadrul sistemului
 ## integrarea în cursuri din curricula UAUIM
 Unul dintre scopurile platformei digitale este de a oferi suport pentru câteva discipline din curricula UAUIM.
