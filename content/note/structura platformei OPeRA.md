@@ -21,8 +21,8 @@ aliases:
 
 ---
 
-# Structura platformei digitale a proiectului
-## componente
+# Structura platformei digitale a proiectului  
+## componente  
 **Structura generală a platformei digitale a proiectului**, cuprinzând componente și *conexiuni* generale, este descrisă în [[structura platformei OPeRA]].
 
 Platforma digitală a proiectului **OPeRA** cuprinde trei module:
@@ -34,8 +34,6 @@ Platforma digitală a proiectului **OPeRA** cuprinde trei module:
 	- baza de date cu mostrele de **materiale de construcție** aflate în *Laboratorul de Tehnologie Arhitecturală al DST UAUIM* - **DST Lab** (realizată în stadiu de proiect pilot - *„Proof-of-Concept”* - în cadrul proiectului pentru componenta *"back-end"*, cu interfața în dezvoltare)
 
 ## atenție la redundanțe: alte componente
-
-
 Principalele **componente** ale acestui modul sunt:
 - **documentația și mediateca**, clasată în sistem DDC - [[o500 DDC]][^2]
 	- în acest context sunt prezentate și **sistemele PKM** într-o secțiune din cadrul documentației, cuprinzând:
