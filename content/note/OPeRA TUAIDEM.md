@@ -31,7 +31,7 @@ tags:
 - nota principală: [[OPeRA DE]]  
 ## Materiale  
 - nota principală: [[OPeRA M]]  
-- bază de cunoștințe care va include și o interfață către baza de date cu materialele din **DST Lab** (vezi [[structura platformei OPeRA]])
+- bază de cunoștințe care va include și o interfață către baza de date cu materialele din **DST Lab** (vezi [[platforma OPeRA]])
 
 # ideea  
 - *(o vom sintetiza în curând într-un microeseu, așa cum a fost prezentată în cadrul conferinței **[FAST 2024, Cluj](https://fast.oar.archi/home/conferinta-stiintifica-fast/)** )*  

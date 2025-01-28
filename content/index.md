@@ -35,7 +35,7 @@ Titlul site-ului, din partea stângă a paginii, **„Platforma OPeRA”**, este
 
 **Graficul** *microuniversului* notelor, din partea dreaptă a pagini, în partea de sus poate fi mărit în fereastră nouă din butonul din partea dreaptă, sus, al componentei paginii.
 ## componente (conținutul modulului PKMS)
-- [[structura platformei OPeRA]]
+- [[platforma OPeRA]]
 - Principii în organizarea modulului PKMS [[principii modulul PKMS]]
 - 
 
