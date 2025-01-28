@@ -31,8 +31,7 @@ aliases:
 ## introducere și ghid
 Această pagină este punctul de **pornire** în structura acestui **modul al platformei digitale [OPeRA](https://opera-phd.org/),** versiunea 0.2[^1].
 
-Titlul site-ului, din partea stângă a paginii, **„Platforma OPeRA”**, este și **link** către pagina aceasta de pornire care conține cuprinsul modulului *(vezi mai jos, [[#componentele platformei]])*.
-Fiecare notă (pagină) a acestui modul conține în **„antet”** (click în câmpul lui deschide conținutul antetului) informații de tip *metadata*, inclusiv **contextul** respectivei pagini sub formă de link.
+Titlul site-ului, din partea stângă a paginii, **„Platforma OPeRA”**, este și **link** către pagina aceasta de pornire care conține cuprinsul modulului *(vezi mai jos, [[#componentele platformei]])*. Fiecare notă (pagină) a acestui modul conține în **„antet”** (click în câmpul lui deschide conținutul antetului) informații de tip *metadata*, inclusiv **contextul** respectivei pagini sub formă de link.
 
 **Graficul** *microuniversului* notelor, din partea dreaptă a pagini, în partea de sus poate fi mărit în fereastră nouă din butonul din partea dreaptă, sus, al componentei paginii.
 ## componente (conținutul modulului PKMS)
