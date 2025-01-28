@@ -22,7 +22,7 @@ aliases:
 ---
 
 # Structura platformei digitale a proiectului  
-## componente  
+## componente (marchez pentru verificare)  
 **Structura generală a platformei digitale a proiectului**, cuprinzând componente și *conexiuni* generale, este descrisă în [[structura platformei OPeRA]].
 
 Platforma digitală a proiectului **OPeRA** cuprinde trei module:
