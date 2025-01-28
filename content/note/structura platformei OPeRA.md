@@ -54,10 +54,6 @@ Principalele **componente** ale acestui modul sunt:
 
 ## principii de alcătuire
 
-*(vom prezenta în curând principiile de alcătuire pe care le-am folosit pentru cele trei componente, adică website, modulul PKMS și baza de date...
-dar nu aici, mut totul în pagina de principii)*
-
-
 
 ---
 # subsolul notei

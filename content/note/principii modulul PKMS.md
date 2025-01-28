@@ -23,6 +23,10 @@ aliases:
 
 # Principii în organizarea modulului PKMS  
 
+*(vom prezenta în curând principiile de alcătuire pe care le-am folosit pentru cele trei componente, adică website, modulul PKMS și baza de date...
+dar nu aici, mut totul în pagina de principii)*
+
+
 
 Toate notele cu prefix DDC (zecimal) reprezintă componente ale **documentației** (bibliotecii), iar celelalte note reprezintă **contribuții proprii** la această platformă digitală. Componentele **documentației** (bibliotecii), clasate în sistemul zecimal Dewey (DDC) cuprind:
 - note de inventariere cu prefix de tipul `###.###`,
