@@ -52,9 +52,9 @@ colors: {
     gray: "#646464",
     darkgray: "#ad9a69", // text
     dark: "#ebebec",
-    secondary: "#7e5841", // links
+    secondary: "#a16f4a", // links
     tertiary: "#718c6f", // hover color
-    highlight: "#c2a26726",
+    highlight: "#c2a26718", // links highlight, initially c2a26726; it is 15% transparency; at 30% value is b3
     textHighlight: "#b08b1875",
   },
 },
