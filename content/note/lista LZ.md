@@ -5,13 +5,13 @@ tags:
 aliases:
 ---
 > [!abstract]- antet  
-> context::  
+> context::  [[structura modul]]
 > data:: 2025.01.29  
 > ora:: 22:22  
 > conexiuni::  
 > DDC::  
 > ZK-prefix::  FZ
-> ZettelkastenCode::  
+> ZettelkastenCode::  PKMs-007
 > sursa::  
 > tags::  
 
