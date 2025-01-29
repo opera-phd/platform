@@ -1,8 +1,8 @@
 ---
-title: 
+title: Structura website-ului opera-phd.org
 draft: false
 tags: 
-aliases:
+aliases: 
 ---
 > [!abstract]- antet  
 > context::  [[platforma OPeRA]]  
@@ -10,7 +10,7 @@ aliases:
 > ora:: 11:22  
 > conexiuni::  
 > DDC::  
-> ZettelkastenCode::  
+> ZettelkastenCode::  PKMs-002
 > sursa::  
 > tags::  
 
@@ -21,7 +21,7 @@ aliases:
 
 ---
 
-# Structura site-ului opera-phd.org
+# Structura website-ului opera-phd.org
 Site-ul proiectului **OPeRA** include următoarele secțiuni:
 - [pagina principală](https://opera-phd.org/)
 - o pagină de prezentare a proiectului, cuprinzând:
@@ -37,7 +37,6 @@ Site-ul proiectului **OPeRA** include următoarele secțiuni:
 - o pagină *(în construcție)* dedicată clubului **DeepWork_PhD**
 - pagina de [contact](https://opera-phd.org/contact/)
 
-(marker 2501290151 and 0156)
 
 ---
 # subsolul notei
