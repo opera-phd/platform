@@ -37,10 +37,8 @@ Site-ul proiectului **OPeRA** include următoarele secțiuni:
 - o pagină *(în construcție)* dedicată clubului **DeepWork_PhD**
 - pagina de [contact](https://opera-phd.org/contact/)
 
-<<<<<<< HEAD
-=======
-(marker 2501290151 and 0156, then delete)
->>>>>>> aaafd594481839061cf8d0fbae89c6c57a102e26
+
+
 
 ---
 # subsolul notei
