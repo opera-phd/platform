@@ -10,6 +10,7 @@ aliases:
 > ora:: 23:38  
 > conexiuni::  
 > DDC::  
+> ZK-prefix::  FZ  
 > ZettelkastenCode::  
 > sursa::  
 > tags::  

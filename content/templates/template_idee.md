@@ -10,6 +10,7 @@ aliases: " "
 > ora:: {{time:HH:mm}}  
 > conexiuni::  
 > DDC::  
+> ZK-prefix::  
 > ZettelkastenCode::  
 > sursa::  
 > tags::  

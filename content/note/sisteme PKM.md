@@ -10,6 +10,7 @@ aliases:
 > ora:: 17:10  
 > conexiuni::  
 > DDC::  [[001.450 PKM]]  
+> ZK-prefix::  FZ  
 > ZettelkastenCode::  
 > sursa::  
 > tags::  

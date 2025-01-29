@@ -10,6 +10,7 @@ aliases:
 > ora:: 01:43  
 > conexiuni::  
 > DDC::  
+> ZK-prefix::  FZ  
 > ZettelkastenCode::  PKMs-004
 > sursa::  
 > tags::  
