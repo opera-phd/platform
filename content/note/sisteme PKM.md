@@ -35,8 +35,11 @@ aliases:
 	- pentru un *test-drive* rapid pe wiki-ul de mai sus, vă putem oferi user (research@opera-phd.org) și parolă
 		- mai bine încercați propria versiune; dacă vreți să dezvoltați conținut în această variantă într-o formulă extinsă, în echipă, vă invităm să ne scrieți la adresa research@opera-phd.org
 - [[Digital Garden]]
-- [Joplin](https://joplinapp.org/) (recomandăm în loc de Evernote)
-- [FreeMind](https://sourceforge.net/projects/freemind/) (la SourceForge) (inclusiv în [Microsoft Store](https://apps.microsoft.com/detail/9nj0r2c43f8d?hl=en-us&gl=US) ), program gratuit de mind mapping pe care îl recomandăm în locul celor care oferă un mediu de lucru încărcat grafic (vedeți nota despre [[principii PKM UI]])
+- **Joplin**, [joplin.org](https://joplinapp.org/)
+	- recomandăm în loc de **Evernote**
+- **FreeMind**, download de la [SourceForge](https://sourceforge.net/projects/freemind/) sau [Microsoft Store](https://apps.microsoft.com/detail/9nj0r2c43f8d?launch=true&mode=full&hl=en-us&gl=ro&ocid=bingwebsearch), program gratuit de mind mapping pe care îl recomandăm în locul celor care oferă un mediu de lucru încărcat grafic (vedeți nota despre [[principii PKM UI]])
+- [Capacities](https://capacities.io/)
+		- recent, au lansat [modul offline](https://docs.capacities.io/misc/offline-support)
 - [Miro](https://miro.com/), whiteboard
 - [Concepts](https://concepts.app/en/), (inclusiv în [Microsoft Store](https://apps.microsoft.com/detail/9ngqm8fph9wq?launch=true&mode=full&hl=en-us&gl=ro&ocid=bingwebsearch)), aplicație de tip „infinite canvas”, oferă un spațiu de lucru structurat și cvasi-infinit, cu layere, grupuri, obiecte etc.
 ## sisteme PKM  
