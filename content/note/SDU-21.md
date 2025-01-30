@@ -1,5 +1,5 @@
 ---
-title: curs SDU-21
+title: SDU-21
 draft: false
 tags: 
 aliases: 
@@ -18,7 +18,6 @@ aliases:
 
 ---
 # componente externe
-- prezentare la cursul 01: https://opera-phd.synology.me/digitalgarden/SDU-21-C01.pdf
 
 
 ---
@@ -27,15 +26,23 @@ aliases:
 
 ## conținutul cursurilor
 - **C01: Modele de investigare și creație științifică folosind hârtia și instrumentele tradiționale**
-- **C02: Aplicații și demonstrații practice ale sistemelor tradiționale** - [[SDU-21-C02]]
-- **C03: Sisteme digitale de cercetare și gestiunea cunoștințelor** - [[SDU-21-C03]]
+	- nota [[SDU-21-C01]]
+	- prezentarea de la cursul 01: https://opera-phd.synology.me/digitalgarden/SDU-21-C01.pdf
+- **C02: Aplicații și demonstrații practice ale sistemelor tradiționale**
+	- nota [[SDU-21-C02]]
+- **C03: Sisteme digitale de cercetare și gestiunea cunoștințelor**
+	- nota [[SDU-21-C03]]
 - **C04**:
-	- **Tehnici de lucru cu literatura de specialitate**: [[SDU-21-C04]]
+	- **Tehnici de lucru cu literatura de specialitate**
+		- nota [[SDU-21-C04]]
 	- **Demonstrații și aplicații practice: platforme digitale PKM *(Obsidian)***
 	- **seminar socratic**
+		- activitatea din cadrul acestui seminar a fost restrânsă, din cauza timpului limitat
+		- seminarele socratice vor continua, însă, în cadrul întâlnirilor clubului [[DeepWork_PhD]] și al celor organizate la inițiativa grupurilor studenților doctoranzi [[alumni-SDU-21]]
 ## obiectivul săptămânii
 - Explorarea și configurarea unui **sistem personal** de cercetare și gestiunea cunoștințelor (**PKMS**) *(cum?)*
-- Un **Syntopicon propriu**: o colecție de termeni-cheie *(arhitectură, urbanism, peisagistică, restaurare, sustenabilitate etc.)* de la care să pornească elaborarea (construcția) unui PKMS *(ce?)*
+- Un **Syntopikon propriu**: o colecție de termeni-cheie *(arhitectură, urbanism, peisagistică, restaurare, sustenabilitate etc.)* de la care să pornească elaborarea (construcția) unui PKMS *(ce?)*
+	- exercițiul este util în contextul calendarului activităților Școlilor Doctorale, pentru predarea documentelor de la începutul lunii februarie 2025
 
 
 ---

@@ -40,7 +40,9 @@ Formula de studiu abordată prin intermediul modulului PKMS reprezintă doar una
 # subsolul notei
 ---
 ## referințe și resurse
-
+- pentru evidența notelor de lucru în sistem [[Zettelkasten]], consultă notele interne corespunzătoare (inaccesibile online):
+	- [[lista LZ]]
+	- [[lista FZ]]
 
 ---
 ## note de subsol  

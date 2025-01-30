@@ -199,6 +199,9 @@ Clasificarea folosită pentru domeniile studiate este adaptată după sistemul D
 ---  
 ## referințe și resurse  
 - [sistemul DDC, la Wikipedia](https://en.wikipedia.org/wiki/Dewey_Decimal_Classification)
-  
+- pentru evidența notelor de lucru în sistem [[Zettelkasten]], consultă notele interne corespunzătoare (inaccesibile online):
+	- [[lista LZ]]
+	- [[lista FZ]]
+
 ---  
 ## note de subsol  
