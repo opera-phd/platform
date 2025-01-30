@@ -4,7 +4,7 @@ draft: false
 tags: 
 ---
 > [!abstract]- antet  
-> context:: [[o500 DDC]]  
+> context:: [[DDC]]  
 > data:: 2024.11.10  
 > ora:: 14:13  
 > conexiuni::  
@@ -43,8 +43,6 @@ tags:
 009 (free)*  
   
 
-(păstrăm încă structura în limba engleză ca referință)
-
 ---  
 # subsolul notei  
 ---  
@@ -53,6 +51,3 @@ tags:
   
 ---  
 ## note de subsol  
----  
-  
-

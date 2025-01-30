@@ -1,5 +1,5 @@
 ---
-title: o500 DDC - mediateca
+title: DDC
 draft: false
 tags: 
 ---
@@ -11,7 +11,7 @@ tags:
 > conexiuni::  
 > DDC::  
 > ZK-prefix::  FZ  
-> ZettelkastenCode::  
+> ZettelkastenCode::  PKMs-005
 > sursa::  
 > tags:: #DDC  
   
@@ -21,6 +21,8 @@ tags:
 
 ---
 
+# notă
+Clasificarea folosită pentru domeniile studiate este adaptată după sistemul Dewey Decimal Classification (DDC), versiunea 23. Folosim terminologia în limba engleză, pentru a asigura compatibilitatea cu dezvoltarea platformei în etapa următoare.
 # 1st summary: main classes  
 *(nota reflectă o adaptare a sistemului DDC)*
 
@@ -200,7 +202,3 @@ tags:
   
 ---  
 ## note de subsol  
----  
-
-  
-

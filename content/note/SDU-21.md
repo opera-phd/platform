@@ -1,5 +1,5 @@
 ---
-title: 
+title: curs SDU-21
 draft: false
 tags: 
 aliases: 
@@ -45,7 +45,4 @@ aliases:
 
 
 ---
-## note de subsol
----
-
-
+## note de subsol  

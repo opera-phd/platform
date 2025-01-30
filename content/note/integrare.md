@@ -1,5 +1,5 @@
 ---
-title: Integrarea platformei OPeRA în activitățile academice
+title: Integrarea platformei
 draft: false
 tags: 
 aliases: 
@@ -11,7 +11,7 @@ aliases:
 > conexiuni::  
 > DDC::  
 > ZK-prefix::  FZ  
-> ZettelkastenCode::  PKMs-005
+> ZettelkastenCode::  PKMs-008
 > sursa::  
 > tags::  
 
@@ -61,7 +61,4 @@ Puteți găsi o scurtă prezentare pe pagina care prezintă lansarea oficială a
 
 
 ---
-## note de subsol
----
-
-
+## note de subsol  

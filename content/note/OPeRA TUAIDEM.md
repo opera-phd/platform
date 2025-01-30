@@ -1,5 +1,5 @@
 ---
-title: 
+title: OPeRA TUAIDEM
 draft: false
 tags: 
 ---
@@ -10,7 +10,7 @@ tags:
 > conexiuni::  
 > DDC::  
 > ZK-prefix::  FZ  
-> ZettelkastenCode::  
+> ZettelkastenCode::  PKMs-010
 > sursa::  
 > tags::  
 
@@ -21,7 +21,10 @@ tags:
 
 ---
 
-# componentele  
+# principiile sistemului TUAIDEM
+Prezentate în  cadrul conferințelor internaționale **"Architectural Experiences II"** de la Sinaia (octombrie 2024) și **[FAST 2024, Cluj](https://fast.oar.archi/home/conferinta-stiintifica-fast/)** (octombrie 2024), principiile de organizare a cunoștințelor din domeniul arhitecturii și urbanismului vor fi definite succint și în paginile platformei proiectului.
+# componentele sistemului TUAIDEM 
+*(conținut în curs de elaborare)*
 ## T - Teorie  
 - nota principală: [[OPeRA T]]  
 ## U - Urbanism  
@@ -32,10 +35,7 @@ tags:
 - nota principală: [[OPeRA DE]]  
 ## Materiale  
 - nota principală: [[OPeRA M]]  
-- bază de cunoștințe care va include și o interfață către baza de date cu materialele din **DST Lab** (vezi [[platforma OPeRA]])
-
-# ideea  
-- *(o vom sintetiza în curând într-un microeseu, așa cum a fost prezentată în cadrul conferinței **[FAST 2024, Cluj](https://fast.oar.archi/home/conferinta-stiintifica-fast/)** )*  
+- bază de cunoștințe care va include și o interfață către baza de date cu mostre de materialele din **DST Lab** (vezi [[structura platformei]])
 
 
 ---
@@ -45,7 +45,4 @@ tags:
 
 
 ---
-## note de subsol
----
-
-
+## note de subsol  

@@ -36,10 +36,10 @@ Titlul site-ului, **„Platforma OPeRA”**, aflat sus, în partea stângă a fi
 
 **Graficul** *microuniversului* notelor, din partea dreaptă a paginii, în partea de sus (pe calculator, și în subsolul paginii, pe telefonul mobil) poate fi mărit în fereastră nouă din propriul buton, aflat în partea dreaptă, sus.
 ## conținutul modulului PKMS
-Sistemul personal de management al cunoștințelor (Personal Knowledge Management System, PKMS) prezentat aici descrie componentele platformei digitale dezvoltate în cadrul proiectului OPeRA: 
-- [[platforma OPeRA|structura generală a platformei digitale]] realizate în cadrul proiectului **OPeRA**, finanțat prin UAUIM-FFCSU-2024-009
-- [[structura site|structura website-ului]]  **OPeRA**
-- [[structura modul|structura modulului]] **PKMS**
+Sistemul personal de management al cunoștințelor (*Personal Knowledge Management System*, **PKMS**) prezentat aici descrie și componentele platformei digitale dezvoltate în cadrul proiectului **OPeRA**: 
+- [[structura platformei|structura generală a platformei digitale]] realizate în cadrul proiectului **OPeRA**, finanțat prin UAUIM-FFCSU-2024-009
+- [[structura website|structura website-ului]]  **OPeRA**
+- [[structura modul|structura modulului]] **PKMS** publicat la adresa https://platform.opera-phd.org/
 - [[principii modul|principiile de organizare]] a modulului **PKMS**
 - aplicații de [[integrare]] a platformei în activitățile academice
 ## contact
@@ -54,5 +54,4 @@ Administrarea acestui modul este comună cu cea a website-ului **[OPeRA](https:/
 
 ---
 ## note de subsol
----
 [^1]: reprezintă încă o versiune *alpha-testing*

@@ -11,7 +11,7 @@ aliases:
 > conexiuni::  
 > DDC::  [[001.450 PKM]]  
 > ZK-prefix::  FZ  
-> ZettelkastenCode::  
+> ZettelkastenCode::  PKMs-009
 > sursa::  
 > tags::  
 
@@ -53,7 +53,4 @@ aliases:
 
 
 ---
-## note de subsol
----
-
-
+## note de subsol  

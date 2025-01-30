@@ -1,11 +1,11 @@
 ---
-title: Structura website-ului opera-phd.org
+title: structura website
 draft: false
 tags: 
 aliases: 
 ---
 > [!abstract]- antet  
-> context::  [[platforma OPeRA]]  
+> context::  [[structura platformei]]  
 > data:: 2025.01.28  
 > ora:: 11:22  
 > conexiuni::  
@@ -26,7 +26,7 @@ aliases:
 Site-ul proiectului **OPeRA** include următoarele secțiuni:
 - [pagina principală](https://opera-phd.org/)
 - o pagină de prezentare a proiectului, cuprinzând:
-	- [scopurile și obiectivele(https://opera-phd.org/obiective/)]
+	- [scopurile și obiectivele](https://opera-phd.org/obiective/)
 	- [echipa proiectului](https://opera-phd.org/echipa/)
 - paginile sesiunilor de formare:
 	- [Orizont și manifestare](https://opera-phd.org/orizont-si-manifestare/)
@@ -48,7 +48,4 @@ Site-ul proiectului **OPeRA** include următoarele secțiuni:
 
 
 ---
-## note de subsol
----
-
-
+## note de subsol  

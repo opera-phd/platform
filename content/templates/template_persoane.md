@@ -33,7 +33,4 @@ tags:
 
 
 ---
-## note de subsol
----
-
-
+## note de subsol  

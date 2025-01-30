@@ -1,11 +1,11 @@
 ---
-title: Principii în organizarea modulului PKMS
+title: principii modul
 draft: false
 tags: 
 aliases: 
 ---
 > [!abstract]- antet  
-> context::  [[index|pagina de pornire]]  
+> context::  [[structura modul]]  
 > data:: 2025.01.28  
 > ora:: 01:43  
 > conexiuni::  
@@ -24,16 +24,17 @@ aliases:
 
 # Principii în organizarea modulului PKMS  
 ## note de lucru preliminare
-*(vom prezenta în curând principiile de alcătuire pe care le-am folosit pentru cele trei componente, adică website, modulul PKMS și baza de date...
-dar nu aici, mut totul în pagina de principii)*
+Toate notele cu prefix DDC (zecimal) reprezintă componente ale **documentației** (bibliotecii), iar celelalte reprezintă **contribuții proprii** la această platformă digitală.
 
-*(poate ar merita extinsă povestea; îmi amintesc că inclusesem mai multe aspecte aici înainte; sunt obosit acum, dar cred că într-una din versiunile anterioare aș putea găsi ce scrisesem înainte)*
-
-Toate notele cu prefix DDC (zecimal) reprezintă componente ale **documentației** (bibliotecii), iar celelalte note reprezintă **contribuții proprii** la această platformă digitală. Componentele **documentației** (bibliotecii), clasate în sistemul zecimal Dewey (DDC) cuprind:
-- note de inventariere cu prefix de tipul `###.###`,
+Componentele **documentației** (bibliotecii), clasate în sistemul zecimal Dewey (DDC) cuprind:
+- note de inventariere (pentru cartarea conținutului) cu prefix de tipul `###.###`,
 - note de lectură, de tip „Literature Review” (LZ, *LiteraturZettel* în sistem [[Zettelkasten]])
 
-  
+**Contribuțiile proprii** sunt clasate după subiectele studiate și conectate în sistem, inclusiv cu notele de lectură și în note de cartarea conținutului.
+
+Principiile de organizare ale modulului PKMS sunt construite pornind de la sistemul [[Zettelkasten]], prezentat în cadrul [sesiunilor de formare](https://opera-phd.org/s2/) ale proiectului OPeRA și în cadrul cursului [[SDU-21]].
+## extinderea studiului principiilor modulului PKMS
+Formula de studiu abordată prin intermediul modulului PKMS reprezintă doar una din alternativele disponibile studiate. Vom documenta pe parcurs și alte scenarii și oportunități apărute în dezvoltarea platformei.  
 
 ---
 # subsolul notei
@@ -42,7 +43,4 @@ Toate notele cu prefix DDC (zecimal) reprezintă componente ale **documentației
 
 
 ---
-## note de subsol
----
-
-
+## note de subsol  

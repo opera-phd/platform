@@ -34,7 +34,4 @@ text
 
 
 ---
-## note de subsol
----
-
-
+## note de subsol  

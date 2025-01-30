@@ -33,10 +33,10 @@ export default {
       title: "Explorer",
     },
     footer: {
-      createdWith: "Created with",
+      createdWith: "construit folosind",
     },
     graph: {
-      title: "Graph View",
+      title: "Grafic local",
     },
     recentNotes: {
       title: "Recent Notes",
@@ -51,7 +51,7 @@ export default {
       searchBarPlaceholder: "Search for something",
     },
     tableOfContents: {
-      title: "Table of Contents",
+      title: "Cuprinsul notei",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `${minutes} min read`,
@@ -63,9 +63,9 @@ export default {
       lastFewNotes: ({ count }) => `Last ${count} notes`,
     },
     error: {
-      title: "Not Found",
-      notFound: "Either this page is private or doesn't exist.",
-      home: "Return to Homepage",
+      title: "Nu am găsit pagina",
+      notFound: "Fie această pagină este confidențială, fie nu există.",
+      home: "Întoarcere la pagina principală",
     },
     folderContent: {
       folder: "Folder",

@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "platform.opera-phd.org",
-    ignorePatterns: ["private", "templates", "journal", ".obsidian"],
+    ignorePatterns: ["private", "templates", "journal", "Zotero", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
@@ -37,7 +37,7 @@ const config: QuartzConfig = {
 colors: {
   lightMode: {
     light: "#e4dac8", // page background
-    lightgray: "#e5e5e5", //borders
+    lightgray: "#d2935d", //borders
     gray: "#b8b8b8", // graph links, heavier borders
     darkgray: "#341a1a", // body text
     dark: "#2b2b2b", // header text and icons
@@ -48,7 +48,7 @@ colors: {
   },
   darkMode: {
     light: "#343434", // the background
-    lightgray: "#393639",
+    lightgray: "#a16f4a",
     gray: "#646464",
     darkgray: "#ad9a69", // text
     dark: "#ebebec",

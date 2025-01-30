@@ -130,11 +130,28 @@ html[saved-theme="dark"] #toc-content ul>li>a {
 }
 
 /* 
-** Explorer content, left side
+** Light Theme, Explorer content, left side
 */
-
 html[saved-theme="light"] #explorer-content ul li a {
   color: #966a44; /* Use a darker text color for light theme */
+}
+
+/* 
+** Dark Theme, Explorer content, left side - can stay as it is
+*/
+
+
+/* 
+** Light Theme, Search area, left side
+*/
+html[saved-theme="light"] #search-button {
+  background-color: #ded0bd !important; /* Use a darker text color for light theme */
+}
+/* 
+** Light Theme, Search area, left side
+*/
+html[saved-theme="dark"] #search-button {
+  background-color: #414040 !important; /* Use a darker text color for light theme */
 }
 
 
@@ -247,3 +264,14 @@ html[saved-theme="dark"] /* Override explorer-content ul li a color */
 html[saved-theme="dark"] button#explorer svg.fold {
   stroke: #a16f4a; /* Replace with your desired stroke color */
 }
+
+// Visually hide the "Footnotes" title while keeping it in the document flow
+h2#footnote-label.sr-only {
+  visibility: hidden; // Hide the text visually
+  height: 0; // Remove the height of the h2 element
+  margin: 0; // Remove any margin
+  padding: 0; // Remove any padding
+  font-size: 0; // Set font size to 0 to avoid extra space
+  line-height: 0; // Set line height to 0 to avoid extra space
+}
+
