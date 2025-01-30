@@ -11,7 +11,7 @@ aliases:
 > conexiuni::  
 > DDC::  
 > ZK-prefix::  FZ  
-> ZettelkastenCode::  
+> ZettelkastenCode::  SDUc-000
 > sursa::  
 > tags::  
 
