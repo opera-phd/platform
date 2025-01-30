@@ -10,7 +10,7 @@ tags:
 > conexiuni::  
 > DDC::  
 > ZK-prefix::  FZ  
-> ZettelkastenCode::  PKMs-010
+> ZettelkastenCode::  PKMs-010  
 > sursa::  
 > tags::  
 

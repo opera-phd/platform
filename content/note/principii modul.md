@@ -11,7 +11,7 @@ aliases:
 > conexiuni::  
 > DDC::  
 > ZK-prefix::  FZ  
-> ZettelkastenCode::  PKMs-004
+> ZettelkastenCode::  PKMs-004  
 > sursa::  
 > tags::  
 

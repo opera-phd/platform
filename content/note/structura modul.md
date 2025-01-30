@@ -9,9 +9,9 @@ aliases:
 > data:: 2025.01.28  
 > ora:: 11:15  
 > conexiuni::  
-> DDC::  
+> DDC::  [[001.450 PKM]]  
 > ZK-prefix::  FZ  
-> ZettelkastenCode::  PKMs-003
+> ZettelkastenCode::  PKMs-003  
 > sursa::  
 > tags::  
 

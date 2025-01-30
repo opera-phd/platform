@@ -11,7 +11,7 @@ aliases:
 > conexiuni::  
 > DDC::  [[001.450 PKM]]  
 > ZK-prefix::  FZ  
-> ZettelkastenCode::  PKMs-009
+> ZettelkastenCode::  PKMs-009  
 > sursa::  
 > tags::  
 

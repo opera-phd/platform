@@ -10,7 +10,7 @@ aliases:
 > ora:: 14:17  
 > conexiuni::  
 > DDC::  [[001.450 PKM]]  
-> ZK-prefix::  FZ
+> ZK-prefix::  FZ  
 > ZettelkastenCode::  WRIp-001  
 > sursa::  
 > tags::  

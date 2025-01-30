@@ -11,7 +11,7 @@ tags:
 > conexiuni::  
 > DDC::  
 > ZK-prefix::  FZ  
-> ZettelkastenCode::  PKMs-005
+> ZettelkastenCode::  PKMs-005  
 > sursa::  
 > tags:: #DDC  
   
