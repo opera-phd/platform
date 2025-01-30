@@ -11,7 +11,7 @@ aliases:
 > conexiuni::  
 > DDC::  [[001.450 PKM]]  
 > ZK-prefix::  FZ
-> ZettelkastenCode::  WRIp-000
+> ZettelkastenCode::  WRIp-000  
 > sursa::  
 > tags::  
 
