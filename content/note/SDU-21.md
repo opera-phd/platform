@@ -27,9 +27,6 @@ aliases:
 ## conținutul cursurilor
 - **C01: Modele de investigare și creație științifică folosind hârtia și instrumentele tradiționale**
 	- nota [[SDU-21-C01]]
-	- prezentarea de la cursul 01:
-		- 1. stocată pe server https://opera-phd.synology.me/digitalgarden/SDU-21-C01.pdf
-		- 2. stocată aici ![[SDU-21-C01.pdf]]
 - **C02: Aplicații și demonstrații practice ale sistemelor tradiționale**
 	- nota [[SDU-21-C02]]
 - **C03: Sisteme digitale de cercetare și gestiunea cunoștințelor**
