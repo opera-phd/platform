@@ -25,7 +25,7 @@ aliases:
 # Structura modulului PKMS
 
 Componentele modulului, urmărind [[principii modul|principiile lui de alcătuire]], sunt:
-- **[[DDC|documentația și mediateca]]**, clasată în sistem DDC[^1] (note de documentare, *LZ*, *LiteraturZettel* în sistem [[Zettelkasten]])
+- **[[DDCs|documentația și mediateca]]**, clasată în sistem DDC[^1] (note de documentare, *LZ*, *LiteraturZettel* în sistem [[Zettelkasten]])
 	- în acest context, sunt prezentate și **sistemele PKM** într-o secțiune din cadrul documentației, cuprinzând:
 		- documentare generală despre sistemele PKM, pornind de la nota  [[001.450 PKM]]
 		- o selecție restrânsă de [[sisteme PKM]] recomandate de noi, pe trei niveluri de complexitate

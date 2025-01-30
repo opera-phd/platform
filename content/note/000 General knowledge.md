@@ -4,20 +4,20 @@ draft: false
 tags: 
 ---
 > [!abstract]- antet  
-> context:: [[DDC]]  
+> context:: [[DDCs]]  
 > data:: 2024.11.10  
 > ora:: 14:13  
 > conexiuni::  
 > DDC::  
-> ZK-prefix::  FZ  
-> ZettelkastenCode::  
+> ZK-prefix::  LZ  
+> ZettelkastenCode::  DDCsy-000.000  
 > sursa::  
 > tags::  #DDC 
 
 
 ---
-
 # componente externe
+
 
 ---
 # sections and subsections
