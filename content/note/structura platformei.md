@@ -24,7 +24,7 @@ aliases:
 
 ---
 # Structura platformei digitale a proiectului  
-## componente (marchez pentru verificare)  
+## componente  
 **Structura generală a platformei digitale a proiectului** cuprinde următoarele trei module:
 1. **website**-ul proiectului, o [[structura website|structură]] conectată cu acest modul, găzduit pe domeniul propriu de la adresa https://opera-phd.org/
 2. modulul **PKMS** (cel în care ne aflăm acum), o aplicație a unui [[sisteme PKM|sistem PKM]], cu [[structura modul|propria structură]], găzduit pe un subdomeniu al website-ului, la adresa https://platform.opera-phd.org/
