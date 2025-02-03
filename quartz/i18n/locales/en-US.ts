@@ -22,8 +22,8 @@ export default {
       quote: "Quote",
     },
     backlinks: {
-      title: "Pagini care trimit aici",
-      noBacklinksFound: "nicio pagină",
+      title: "Backlinks",
+      noBacklinksFound: "No backlinks found",
     },
     themeToggle: {
       lightMode: "Light mode",
@@ -33,13 +33,13 @@ export default {
       title: "Explorer",
     },
     footer: {
-      createdWith: "Construit cu ",
+      createdWith: "construit folosind",
     },
     graph: {
       title: "Grafic local",
     },
     recentNotes: {
-      title: "Note recente",
+      title: "Recent Notes",
       seeRemainingMore: ({ remaining }) => `See ${remaining} more →`,
     },
     transcludes: {
@@ -47,11 +47,11 @@ export default {
       linkToOriginal: "Link to original",
     },
     search: {
-      title: "caută",
-      searchBarPlaceholder: "caută",
+      title: "Search",
+      searchBarPlaceholder: "Search for something",
     },
     tableOfContents: {
-      title: "Cuprinsul paginii",
+      title: "Cuprinsul notei",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `${minutes} min read`,
@@ -63,9 +63,9 @@ export default {
       lastFewNotes: ({ count }) => `Last ${count} notes`,
     },
     error: {
-      title: "Nu există",
-      notFound: "Pagina nu există sau nu este publică.",
-      home: "Înapoi la prima pagină",
+      title: "Nu am găsit pagina",
+      notFound: "Fie această pagină este confidențială, fie nu există.",
+      home: "Întoarcere la pagina principală",
     },
     folderContent: {
       folder: "Folder",

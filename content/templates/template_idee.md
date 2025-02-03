@@ -10,6 +10,7 @@ aliases: " "
 > ora:: {{time:HH:mm}}  
 > conexiuni::  
 > DDC::  
+> ZK-prefix::  
 > ZettelkastenCode::  
 > sursa::  
 > tags::  
@@ -33,7 +34,4 @@ text
 
 
 ---
-## note de subsol
----
-
-
+## note de subsol  

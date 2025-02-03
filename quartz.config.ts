@@ -3,6 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 /**
  * Quartz 4.0 Configuration
+ * edited 250126 23H15
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
@@ -17,7 +18,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "platform.opera-phd.org",
-    ignorePatterns: ["private", "templates", "journal", ".obsidian"],
+    ignorePatterns: ["private", "templates", "journal", "Zotero", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
@@ -33,32 +34,32 @@ const config: QuartzConfig = {
 ** This is the important colors customization section
 *****************************************************
 */
-      colors: {
-        lightMode: {
-          light: "#e4dac8", // page background
-          lightgray: "#e5e5e5", //borders
-          gray: "#b8b8b8", // graph links, heavier borders
-          darkgray: "#341a1a", // body text
-          dark: "#2b2b2b", // header text and icons
-          secondary: "#7e5841", // links, current graph node
-          tertiary: "#718c6f", // hover color visited graph nodes
-          highlight: "rgba(143, 159, 169, 0.15)", // internal links bg, highlighted text and lines of code
-          textHighlight: "#fff23688", // (with transparency) MD highlighted text bg
-        },
-        darkMode: {
-          light: "#343434", // the background
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#ad9a69", // text
-          dark: "#ebebec",
-          secondary: "#7e5841", // links
-          tertiary: "#718c6f", // hover color
-          highlight: "#c2a26726",
-          textHighlight: "#b08b1875",
-        },
-      },
-    },
+colors: {
+  lightMode: {
+    light: "#e4dac8", // page background
+    lightgray: "#d2935d", //borders
+    gray: "#b8b8b8", // graph links, heavier borders
+    darkgray: "#341a1a", // body text
+    dark: "#2b2b2b", // header text and icons
+    secondary: "#7e5841", // links, current graph node
+    tertiary: "#718c6f", // hover color visited graph nodes
+    highlight: "rgba(143, 159, 169, 0.15)", // internal links bg, highlighted text and lines of code
+    textHighlight: "#fff23688", // (with transparency) MD highlighted text bg
   },
+  darkMode: {
+    light: "#343434", // the background
+    lightgray: "#a16f4a",
+    gray: "#646464",
+    darkgray: "#ad9a69", // text
+    dark: "#ebebec",
+    secondary: "#a16f4a", // links
+    tertiary: "#718c6f", // hover color
+    highlight: "#c2a26718", // links highlight, initially c2a26726; it is 15% transparency; at 30% value is b3
+    textHighlight: "#b08b1875",
+  },
+},
+},
+},
 /*
 *****************************************************
 **** The plugins section - study before changing ****
