@@ -18,7 +18,7 @@ aliases:
 
 ---
 # componente externe
-
+*(fără componente externe)*
 
 ---
 # top-down prompts

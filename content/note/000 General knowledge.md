@@ -17,7 +17,7 @@ tags:
 
 ---
 # componente externe
-
+*(fără componente externe)*
 
 ---
 # sections and subsections

@@ -16,7 +16,7 @@ tags:
   
 ---  
 # componente externe
-
+*(fără componente externe)*
 
 ---
 

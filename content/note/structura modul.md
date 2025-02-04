@@ -18,7 +18,9 @@ aliases:
 
 ---
 # componente externe
-
+- [[principii modul]]
+- [[DDCs]]
+- [[OPeRA TUAIDEM]]
 
 ---
 

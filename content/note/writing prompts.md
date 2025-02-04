@@ -18,7 +18,7 @@ aliases:
 
 ---
 # componente externe
-
+*(vezi mai jos)*
 
 ---
 
