@@ -32,7 +32,7 @@ aliases:
 # subsolul notei
 ---
 ## referințe și resurse
-
+- (marker) vom adăuga noi resurse în curând, în completarea prompt-urilor incluse deja
 
 ---
 ## note de subsol  
