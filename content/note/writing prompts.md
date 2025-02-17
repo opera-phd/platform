@@ -33,7 +33,8 @@ aliases:
 ---
 ## referințe și resurse
 - (marker) vom adăuga noi resurse în curând, în completarea prompt-urilor incluse deja
-- (marker 2) metodele de lucru în cadrul notelor și, în general, al fluxului de lucru nu se limitează la prompt-uri
+- (marker 2) metodele de lucru în cadrul notelor și, în general, al fluxului de lucru nu se limitează la prompt-uri; nota de studiu rezervată în acest scop este [[writing no-prompts]]
+
 
 ---
 ## note de subsol  
