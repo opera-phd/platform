@@ -26,20 +26,20 @@ aliases:
 ## premise (preliminare)
 Așa am promis în cadrul activităților.
 ## integrarea în cursuri din curricula UAUIM
-Unul dintre scopurile platformei digitale este de a oferi suport pentru câteva discipline din curricula UAUIM.
-### cursuri
-Cursurile pentru care platforma a fost deja configurată sunt:
-- *[[ST-70E]] Technology for Sustainable Habitat*, anul 4 EN, sem. 2 (curs la alegere)
+Unul dintre scopurile platformei digitale este de a oferi suport pentru câteva discipline din curricula UAUIM. Cursurile și proiectele pentru care platforma a fost deja configurată sunt prezentate mai jos.
+### cursuri în semestrul 1
 - [[ST-85E]] *Introduction to Buildings' Physics*, anul 3 EN, sem. 1
-- [[ST-113]] *Arhitectură incluzivă / Design universal*, anul 4, sem. 2 (curs la alegere)
-- [[ST-112]] *Detaliere de arhitectură (2)* (CRA Sibiu, eventual și ST-111 Detaliere de arhitectură (1), FA)
 - [[SDU-21]] *Sisteme de cercetare și gestiunea cunoștințelor*, anul 1, SDU și SDA, sem. 1
-### proiecte
-Proiectele pentru care a fost configurată conectarea cu platforma digitală sunt:
-- [[ST-23]] *Proiect tehnologie arhitecturală (4)*, anul 5, sem. 1
-	- [[ST-23E]] *Architectural Technology Design Studio (4)*, anul 5 EN, sem. 1
-- [[ST-84]] *Proiect arhitectură sustenabilă*, anul 5, sem. 2 (proiect la alegere)
-	- și [[ST-84E]] *Design Studio - Sustainable Architecture*, anul 5 EN, sem. 2 (proiect la alegere)
+### cursuri în semestrul 2
+- [[ST-112]] *Detaliere de arhitectură (2)* (CRA Sibiu, eventual și ST-111 Detaliere de arhitectură (1), FA)
+- [[ST-113]] *Arhitectură incluzivă / Design universal*, anul 4, (curs la alegere)
+- *[[ST-70E]] Technology for Sustainable Habitat*, anul 4 EN, (curs la alegere)
+### proiecte în semestrul 1
+- [[ST-23]] *Proiect tehnologie arhitecturală (4)*, anul 5
+	- [[ST-23E]] *Architectural Technology Design Studio (4)*, anul 5 EN
+### proiecte în semestrul 2
+- [[ST-84]] *Proiect arhitectură sustenabilă*, anul 5, (proiect la alegere)
+	- [[ST-84E]] *Design Studio - Sustainable Architecture*, anul 5 EN, (proiect la alegere)
 ## îndrumarea disertațiilor
 Utilizarea platformei în cadrul îndrumării disertațiilor, folosind ca punct de pornire în studiu o [[disertatie|pagină dedicată]], integrează un subset al principiilor prezentate în cadrul cursului [[SDU-21]] *Sisteme de cercetare și gestiunea cunoștințelor*, anul 1, SDU și SDA, sem. 1, ilustrate în cadrul acestei platforme, cu precădere pornind de la secțiunile următoare:
 - [[001.450 PKM|PKM]], documentații referitoare la sistemele personale de management al cunoștințelor (PKM)
