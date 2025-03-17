@@ -45,7 +45,7 @@ Utilizarea platformei în cadrul îndrumării disertațiilor, folosind ca punct 
 - [[001.450 PKM|PKM]], documentații referitoare la sistemele personale de management al cunoștințelor (PKM)
 - [[sisteme PKM]], o selecție restrânsă de platforme și instrumente PKM.
 ## îndrumarea tezelor de doctorat
-Platforma poate fi folosită și în cadrul îndrumării tezelor de doctorat, pornind de la principiile prezentate în cadrul cursului [[SDU-21]] *Sisteme de cercetare și gestiunea cunoștințelor*, anul 1, SDU și SDA, sem. 1.
+Platforma poate fi folosită în procesul îndrumării tezelor de doctorat, pornind de la principiile prezentate în cadrul cursului [[SDU-21]] *Sisteme de cercetare și gestiunea cunoștințelor*, anul 1, SDU și SDA, semestrul 1, cu includerea, de asemenea, a principiilor [[001.450 PKM|PKM]] și utilizarea [[sisteme PKM|platformelor și instrumentelor PKM]].
 ## suport în cadrul clubului DeepWork_PhD
 Clubul **DeepWork_PhD** a fost lansat oficial în cadrul proiectului **OPeRA**, în prima sesiune de formare organizată, prezentată pe website-ul proiectului, la pagina [Orizont și manifestare – OPeRA](https://opera-phd.org/orizont-si-manifestare/).
 
